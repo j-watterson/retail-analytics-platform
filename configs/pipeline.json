@@ -1,0 +1,7 @@
+{
+  "source_path": "data/raw/orders.csv",
+  "database_path": "warehouse/retail_analytics.db",
+  "rejected_path": "data/rejected/orders.csv",
+  "log_level": "INFO"
+}
+

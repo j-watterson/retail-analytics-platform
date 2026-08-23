@@ -1,0 +1,8 @@
+services:
+  etl:
+    build: .
+    volumes:
+      - ./warehouse:/app/warehouse
+      - ./data/rejected:/app/data/rejected
+    command: ["--report"]
+

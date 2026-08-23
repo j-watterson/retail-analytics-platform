@@ -1,0 +1,14 @@
+order_id,order_timestamp,customer_id,customer_name,customer_email,product_id,product_name,category,unit_price,quantity,status
+1001,2026-01-03T09:15:00,C001,Avery Chen,avery@example.com,P101,Trail Backpack,Outdoor,89.99,1,completed
+1002,2026-01-03T11:42:00,C002,Morgan Lee,morgan@example.com,P102,Insulated Bottle,Outdoor,24.50,2,completed
+1003,2026-01-04T14:05:00,C001,Avery Chen,avery@example.com,P103,Merino Base Layer,Apparel,64.00,1,completed
+1004,2026-01-05T08:30:00,C003,Jordan Davis,jordan@example.com,P104,Hiking Socks,Apparel,18.75,3,completed
+1005,2026-01-05T16:20:00,C004,Riley Smith,riley@example.com,P105,Camp Lantern,Camping,42.00,1,cancelled
+1006,2026-01-06T10:10:00,C002,Morgan Lee,morgan@example.com,P106,Trekking Poles,Outdoor,79.50,1,completed
+1007,2026-01-07T13:55:00,C005,Casey Brown,casey@example.com,P107,Two-Person Tent,Camping,229.00,1,completed
+1008,2026-01-08T09:45:00,C003,Jordan Davis,jordan@example.com,P102,Insulated Bottle,Outdoor,24.50,1,refunded
+1009,2026-01-09T12:05:00,C006,Taylor Wilson,taylor@example.com,P108,Rain Shell,Apparel,119.00,2,completed
+1010,2026-01-10T15:30:00,C004,Riley Smith,riley@example.com,P109,Camp Stove,Camping,68.25,1,completed
+1011,2026-01-11T17:12:00,C007,Alex Martinez,alex@example.com,P101,Trail Backpack,Outdoor,89.99,1,completed
+1012,2026-01-12T10:00:00,C005,Casey Brown,casey@example.com,P104,Hiking Socks,Apparel,18.75,4,completed
+
